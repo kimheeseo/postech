@@ -11,3 +11,5 @@ python train.py --train_dir ./images/images --test_dir ./images/images --device 
   
 <CNN>
 python train.py --train_dir ./images/images --test_dir ./images/images --device cpu --arch resnet18  
+
+<data> kaggle : https://www.kaggle.com/yaswanthgali/dog-images
