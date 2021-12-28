@@ -1,5 +1,5 @@
 # project2_CNN
-# ResNet을 사용한 강아지 종류를 구분하는 알고리즘
+ResNet을 사용한 강아지 종류를 구분하는 알고리즘
 # CNN vs FCN(fully connected layer)
 
 # 실행방법
