@@ -3,13 +3,14 @@
 # CNN vs FCN(fully connected layer)
 
 # 실행방법
-# <Basic model>
+# Basic model
 python train.py --train_dir ./images/images --test_dir ./images/images  
   
-# <FCN>
+# FCN
 python train.py --train_dir ./images/images --test_dir ./images/images --device cpu --arch resfcn18
   
-# <CNN>
+# CNN
 python train.py --train_dir ./images/images --test_dir ./images/images --device cpu --arch resnet18  
 
-# <data> kaggle : https://www.kaggle.com/yaswanthgali/dog-images
+# data
+kaggle : https://www.kaggle.com/yaswanthgali/dog-images
