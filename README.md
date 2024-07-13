@@ -18,3 +18,5 @@ postech 인공지능 관련 수업 자료 모음
 # 6. Matlab_Machine-Deep_Learning
 교육과정: MATLAB으로 시작하는 손쉬운 Machine Learning 및 Deep Learning
 교육기간: 2021.09.02 ~ 2021.09.03
+
+#  7.대학원 영어논문작성법 (GEDU501-02)
