@@ -12,5 +12,9 @@ postech 인공지능 관련 수업 자료 모음
 - vhdl_homework(반도체공학개론 과제)
 -
 
-# CAN
+# 5. CAN
 - 현대자동차 취업 준비용 자료
+
+# 6. Matlab_Machine-Deep_Learning
+교육과정: MATLAB으로 시작하는 손쉬운 Machine Learning 및 Deep Learning
+교육기간: 2021.09.02 ~ 2021.09.03
