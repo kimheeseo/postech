@@ -10,7 +10,7 @@ postech 인공지능 관련 수업 자료 모음
 
 4. 반도체공학개론: PSEP -박홍준 교수님 (PSEP501)
 - vhdl_homework(반도체공학개론 과제)
-- - 
+- calucluator
 
 5. CAN
 - 현대자동차 취업 준비용 자료
