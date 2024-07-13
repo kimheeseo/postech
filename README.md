@@ -10,4 +10,6 @@ postech 인공지능 관련 수업 자료 모음
 - 참여 과제: NI사의 USRP장비 통신 시스템 구축을 위해 학습
 
 4. 반도체공학개론: PSEP(박홍준 교수님)
-- vhdl_homework(반도체공학개론 과제)
+- PSEP501
+1) vhdl_homework(반도체공학개론 과제)
+2)
