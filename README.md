@@ -12,7 +12,7 @@ postech 인공지능 관련 수업 자료 모음
 - vhdl_homework(반도체공학개론 과제)
 - calucluator
 
-5. CAN
+5. CAN (탈락)
 - 현대자동차 취업 준비용 자료
 
 6. Matlab_Machine-Deep_Learning
